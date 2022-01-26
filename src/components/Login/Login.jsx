@@ -7,7 +7,7 @@ import { Route ,Navigate } from "react-router-dom";
 
 
 
-const Login = (props ,) =>{
+const Login = (props ) =>{
 
     const [username, setUserName] = useState(" ");
     const [password, setUserPassword] = useState(" ");
